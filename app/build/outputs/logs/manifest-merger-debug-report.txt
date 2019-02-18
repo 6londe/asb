@@ -74,7 +74,7 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/6londe/.gradle/caches/
 	android:fullBackupContent
 		ADDED from /Users/6londe/work/android-sqlite-benchmark/app/src/main/AndroidManifest.xml:6:9-42
 	android:icon
-		ADDED from /Users/6londe/work/android-sqlite-benchmark/app/src/main/AndroidManifest.xml:8:9-45
+		ADDED from /Users/6londe/work/android-sqlite-benchmark/app/src/main/AndroidManifest.xml:8:9-43
 	android:allowBackup
 		ADDED from /Users/6londe/work/android-sqlite-benchmark/app/src/main/AndroidManifest.xml:7:9-35
 	android:theme

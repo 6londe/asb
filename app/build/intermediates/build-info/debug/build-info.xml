@@ -2,49 +2,97 @@
 <instant-run
     abi="x86"
     api-level="28"
-    build-mode="COLD"
+    build-mode="FULL"
     density="420dpi"
     format="10"
     plugin-version="3.3.1"
-    timestamp="1550496741396"
+    timestamp="1550501038907"
     token="8758514079317742223"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="137" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="20" />
     <task
         name="verifier"
-        duration="0" />
+        duration="54" />
 
     <artifact
         location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
         type="SPLIT" />
+    <artifact
+        location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1550496695203"
+        timestamp="1550501038907"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
             location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
             location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
@@ -53,31 +101,11 @@
             location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
             location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
             type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1550496741396"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
-            type="SPLIT" />
     </build>
 
 </instant-run>
