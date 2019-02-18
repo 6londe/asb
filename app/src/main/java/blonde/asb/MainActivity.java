@@ -95,7 +95,7 @@ public class MainActivity extends Activity {
                                     overall.setText(overall.getText() + " ms");
                                     overall.setTextColor(Color.RED);
 
-                                    startButton.setTextColor(Color.WHITE);
+                                    startButton.setTextColor(Color.BLACK);
                                     startButton.setText("Start Benchmark");
 
                                     startButton.setEnabled(true);
@@ -115,7 +115,7 @@ public class MainActivity extends Activity {
                                 result[tc].setText(getString(R.string.canceled));
                             }
 
-                            startButton.setTextColor(Color.WHITE);
+                            startButton.setTextColor(Color.BLACK);
                             startButton.setText(getString(R.string.start));
 
                             startButton.setEnabled(true);

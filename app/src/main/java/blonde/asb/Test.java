@@ -2,7 +2,7 @@ package blonde.asb;
 
 class Test {
 
-    private int repeat[] = { 1000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000 };
+    private int repeat[] = { 2000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000 };
 
     void run(int test_case, DatabaseHelper databaseHelper) {
 

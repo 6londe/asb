@@ -1,277 +1,329 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:background="@color/black">
+    android:background="@color/black"
+    xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <LinearLayout
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal" >
-        <TextView
-            android:text="@string/test1"
-            android:layout_width="270dp"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white" />
-        <TextView
-            android:id="@+id/test1"
-            android:layout_width="80dp"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white" />
-    </LinearLayout>
+        android:orientation="vertical"
+        android:padding="12dp"
+        android:background="@color/black">
+
         <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal" >
-        <TextView
-            android:text="@string/test2"
-            android:layout_width="270dp"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white" />
-        <TextView
-            android:id="@+id/test2"
-            android:layout_width="80dp"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white" />
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal" >
-        <TextView
-            android:text="@string/test3"
-            android:layout_width="270dp"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white" />
-        <TextView
-            android:id="@+id/test3"
-            android:layout_width="80dp"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white" />
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal" >
-        <TextView
-            android:text="@string/test4"
-            android:layout_width="270dp"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white" />
-        <TextView
-            android:id="@+id/test4"
-            android:layout_width="80dp"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white" />
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal" >
-        <TextView
-            android:text="@string/test5"
-            android:layout_width="270dp"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white" />
-        <TextView
-            android:id="@+id/test5"
-            android:layout_width="80dp"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white" />
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal" >
-        <TextView
-            android:text="@string/test6"
-            android:layout_width="270dp"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white" />
-        <TextView
-            android:id="@+id/test6"
-            android:layout_width="80dp"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white" />
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal" >
-        <TextView
-            android:text="@string/test7"
-            android:layout_width="270dp"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white" />
-        <TextView
-            android:id="@+id/test7"
-            android:layout_width="80dp"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white" />
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal" >
-        <TextView
-            android:text="@string/test8"
-            android:layout_width="270dp"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white" />
-        <TextView
-            android:id="@+id/test8"
-            android:layout_width="80dp"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white" />
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal" >
-        <TextView
-            android:text="@string/test9"
-            android:layout_width="270dp"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white" />
-        <TextView
-            android:id="@+id/test9"
-            android:layout_width="80dp"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white" />
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal" >
-        <TextView
-            android:text="@string/test10"
-            android:layout_width="270dp"
-            android:layout_height="wrap_content" 
-            android:textColor="@color/white"/>
-        <TextView
-            android:id="@+id/test10"
-            android:layout_width="80dp"
-            android:layout_height="wrap_content" 
-            android:textColor="@color/white"/>
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal" >
-        <TextView
-            android:text="@string/test11"
-            android:layout_width="270dp"
-            android:layout_height="wrap_content" 
-            android:textColor="@color/white"/>
-        <TextView
-            android:id="@+id/test11"
-            android:layout_width="80dp"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white" />
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal" >
-        <TextView
-            android:text="@string/test12"
-            android:layout_width="270dp"
-            android:layout_height="wrap_content" 
-            android:textColor="@color/white"/>
-        <TextView
-            android:id="@+id/test12"
-            android:layout_width="80dp"
-            android:layout_height="wrap_content" 
-            android:textColor="@color/white"/>
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal" >
-        <TextView
-            android:text="@string/test13"
-            android:layout_width="270dp"
-            android:layout_height="wrap_content" 
-            android:textColor="@color/white"/>
-        <TextView
-            android:id="@+id/test13"
-            android:layout_width="80dp"
-            android:layout_height="wrap_content" 
-            android:textColor="@color/white"/>
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal" >
-        <TextView
-            android:text="@string/test14"
-            android:layout_width="270dp"
-            android:layout_height="wrap_content" 
-            android:textColor="@color/white"/>
-        <TextView
-            android:id="@+id/test14"
-            android:layout_width="80dp"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white" />
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal" >
-        <TextView
-            android:text="@string/overall"
-            android:layout_width="270dp"
-            android:layout_height="wrap_content" 
-            android:textColor="@color/white"/>
-        <TextView
-            android:id="@+id/overall"
-            android:layout_width="80dp"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white" />
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal">
-        <Button
-            android:id="@+id/start"
+            android:padding="1dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/start"
-            android:textColor="@color/white"/>
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal">
-        <Button
-            android:id="@+id/cancel"
+            android:orientation="horizontal" >
+            <TextView
+                android:text="@string/test2"
+                android:layout_weight="99"
+                android:layout_width="270dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+            <TextView
+                android:id="@+id/test2"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+        </LinearLayout>
+        <LinearLayout
+            android:padding="1dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/cancel" 
-            android:textColor="@color/white"/>
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal">
-        <TextView
-            android:id="@+id/param"
-            android:layout_width="80dp"
+            android:orientation="horizontal" >
+            <TextView
+                android:text="@string/test1"
+                android:layout_weight="99"
+                android:layout_width="270dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+            <TextView
+                android:id="@+id/test1"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+        </LinearLayout>
+        <LinearLayout
+            android:padding="1dp"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColor="@color/black" />
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+            android:orientation="horizontal" >
+            <TextView
+                android:text="@string/test3"
+                android:layout_weight="99"
+                android:layout_width="270dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+            <TextView
+                android:id="@+id/test3"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+        </LinearLayout>
+        <LinearLayout
+            android:padding="1dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <TextView
+                android:text="@string/test4"
+                android:layout_weight="99"
+                android:layout_width="270dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+            <TextView
+                android:id="@+id/test4"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+        </LinearLayout>
+        <LinearLayout
+            android:padding="1dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <TextView
+                android:text="@string/test5"
+                android:layout_weight="99"
+                android:layout_width="270dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+            <TextView
+                android:id="@+id/test5"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+        </LinearLayout>
+        <LinearLayout
+            android:padding="1dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <TextView
+                android:text="@string/test6"
+                android:layout_weight="99"
+                android:layout_width="270dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+            <TextView
+                android:id="@+id/test6"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+        </LinearLayout>
+        <LinearLayout
+            android:padding="1dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <TextView
+                android:text="@string/test7"
+                android:layout_weight="99"
+                android:layout_width="270dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+            <TextView
+                android:id="@+id/test7"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+        </LinearLayout>
+        <LinearLayout
+            android:padding="1dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <TextView
+                android:text="@string/test8"
+                android:layout_weight="99"
+                android:layout_width="270dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+            <TextView
+                android:id="@+id/test8"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+        </LinearLayout>
+        <LinearLayout
+            android:padding="1dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <TextView
+                android:text="@string/test9"
+                android:layout_weight="99"
+                android:layout_width="270dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+            <TextView
+                android:id="@+id/test9"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+        </LinearLayout>
+        <LinearLayout
+            android:padding="1dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <TextView
+                android:text="@string/test10"
+                android:layout_weight="99"
+                android:layout_width="270dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"/>
+            <TextView
+                android:id="@+id/test10"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"/>
+        </LinearLayout>
+        <LinearLayout
+            android:padding="1dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <TextView
+                android:text="@string/test11"
+                android:layout_weight="99"
+                android:layout_width="270dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"/>
+            <TextView
+                android:id="@+id/test11"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+        </LinearLayout>
+        <LinearLayout
+            android:padding="1dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <TextView
+                android:text="@string/test12"
+                android:layout_weight="99"
+                android:layout_width="270dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"/>
+            <TextView
+                android:id="@+id/test12"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"/>
+        </LinearLayout>
+        <LinearLayout
+            android:padding="1dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <TextView
+                android:text="@string/test13"
+                android:layout_weight="99"
+                android:layout_width="270dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"/>
+            <TextView
+                android:id="@+id/test13"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"/>
+        </LinearLayout>
+        <LinearLayout
+            android:padding="1dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <TextView
+                android:text="@string/test14"
+                android:layout_weight="99"
+                android:layout_width="270dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"/>
+            <TextView
+                android:id="@+id/test14"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+        </LinearLayout>
+        <LinearLayout
+            android:padding="1dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <TextView
+                android:text="@string/overall"
+                android:layout_weight="99"
+                android:layout_width="270dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"/>
+            <TextView
+                android:id="@+id/overall"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <Button
+                android:id="@+id/start"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/start" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <Button
+                android:id="@+id/cancel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/cancel" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/param"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.google.android.gms.ads.AdView
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/adView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                ads:adSize="BANNER"
+                ads:adUnitId="@string/admob_unit_id">
+            </com.google.android.gms.ads.AdView>
+        </LinearLayout>
 
-        <com.google.android.gms.ads.AdView
-            xmlns:ads="http://schemas.android.com/apk/res-auto"
-            android:id="@+id/adView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            ads:adSize="BANNER"
-            ads:adUnitId="@string/admob_unit_id">
-        </com.google.android.gms.ads.AdView>
     </LinearLayout>
-</LinearLayout>
+</ScrollView>
+
