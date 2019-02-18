@@ -1,17 +1,17 @@
 {
     "logs": [
         {
-            "outputFile": "/home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "outputFile": "/Users/6londe/work/android-sqlite-benchmark/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
             "map": [
                 {
-                    "source": "/home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/res/values-v11/styles.xml",
+                    "source": "/Users/6londe/work/android-sqlite-benchmark/app/src/main/res/values-v11/styles.xml",
                     "from": {
                         "startLines": "6",
                         "startColumns": "4",
                         "startOffsets": "177",
                         "endLines": "8",
                         "endColumns": "12",
-                        "endOffsets": "306"
+                        "endOffsets": "275"
                     },
                     "to": {
                         "startLines": "2",
@@ -19,7 +19,7 @@
                         "startOffsets": "55",
                         "endLines": "4",
                         "endColumns": "12",
-                        "endOffsets": "184"
+                        "endOffsets": "153"
                     }
                 }
             ]

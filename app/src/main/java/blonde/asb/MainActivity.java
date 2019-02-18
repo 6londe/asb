@@ -7,10 +7,15 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.MobileAds;
+
 import java.util.Arrays;
 
 public class MainActivity extends Activity {
 
+    private AdView mAdView;
     DatabaseHelper databaseHelper;
     Task task[];
     TextView result[];
@@ -21,6 +26,11 @@ public class MainActivity extends Activity {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        MobileAds.initialize(this, getString(R.string.admob_app_id));
+        mAdView = findViewById(R.id.adView);
+        AdRequest adRequest = new AdRequest.Builder().build();
+        mAdView.loadAd(adRequest);
 
         databaseHelper = new DatabaseHelper(this);
 
