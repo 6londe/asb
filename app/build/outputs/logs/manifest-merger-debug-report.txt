@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ec3504987de60b7725b42869cbbaf2c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/88d5bd29d1fa2ef163125a22ed1f2f73/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/15ee4eb0f978fd14244da962a3935404/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c1192087eae29b4eff6beaf9e1a0cfba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b2f89d368cb2961d81a24a68e5e16ddb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/de386aab7338ede206ddef03a06f7b01/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/501fa2b20e7aab039f86bda6c7038325/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/0a5582b47ed09a6f6c9d19935b5e6526/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/77a770d0961f228b1d8a28e1ab560001/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/83fb9568cf34b2ffe74e720e4c51be19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ed2447641c269afd8e16dbd2f7605c3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bf5460bf44f84442cb014bcb5359caef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b4e357b5fa9ac60f5d6bda43b97aa523/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/05e133c6557799633fc24c8bd99430cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fbebee2111a41a97478c34039310d4ee/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/db9df6f1ec42eb5389c007185f6a35b9/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/6975d267ce2b9c06dfe9b60283807a9c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/changhoon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/52ee9a55d14d2c8c833c6aed99fbfd46/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b5a4995a140d0c470c427364597496c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ac369775d264790a68428d229a56b7ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6580e4231030aa57d63d64b42403ea8e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/changhoon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5d17003e59f7b0fbbe5d438cfcbec97c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/changhoon/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/31512cb239ee5561a6fdf2c81724a5d0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/changhoon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/98da76edc8e57646dc90c55070558790/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/changhoon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9b01628db7c343ca0952153ad51e94f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b7192e3612d51c18ccf5986fc60cabf8/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:3:5-25
+		INJECTED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml
+		INJECTED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml
+		ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml
+		ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fbebee2111a41a97478c34039310d4ee/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fbebee2111a41a97478c34039310d4ee/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/db9df6f1ec42eb5389c007185f6a35b9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/db9df6f1ec42eb5389c007185f6a35b9/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fbebee2111a41a97478c34039310d4ee/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:9:9-41
+	android:fullBackupContent
+		ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:6:9-42
+	android:icon
+		ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:8:9-45
+	android:allowBackup
+		ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:10:9-40
+activity#blonde.asb.MainActivity
+ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:11:9-20:20
+	android:label
+		ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:13:13-45
+	android:name
+		ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:12:13-51
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:14:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:15:25-66
+action#android.intent.action.VIEW
+ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml
+INJECTED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ec3504987de60b7725b42869cbbaf2c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ec3504987de60b7725b42869cbbaf2c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/88d5bd29d1fa2ef163125a22ed1f2f73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/88d5bd29d1fa2ef163125a22ed1f2f73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/15ee4eb0f978fd14244da962a3935404/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/15ee4eb0f978fd14244da962a3935404/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c1192087eae29b4eff6beaf9e1a0cfba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c1192087eae29b4eff6beaf9e1a0cfba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b2f89d368cb2961d81a24a68e5e16ddb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b2f89d368cb2961d81a24a68e5e16ddb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/de386aab7338ede206ddef03a06f7b01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/de386aab7338ede206ddef03a06f7b01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/501fa2b20e7aab039f86bda6c7038325/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/501fa2b20e7aab039f86bda6c7038325/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/0a5582b47ed09a6f6c9d19935b5e6526/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/0a5582b47ed09a6f6c9d19935b5e6526/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/77a770d0961f228b1d8a28e1ab560001/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/77a770d0961f228b1d8a28e1ab560001/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/83fb9568cf34b2ffe74e720e4c51be19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/83fb9568cf34b2ffe74e720e4c51be19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ed2447641c269afd8e16dbd2f7605c3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/ed2447641c269afd8e16dbd2f7605c3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bf5460bf44f84442cb014bcb5359caef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bf5460bf44f84442cb014bcb5359caef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b4e357b5fa9ac60f5d6bda43b97aa523/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b4e357b5fa9ac60f5d6bda43b97aa523/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/05e133c6557799633fc24c8bd99430cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/05e133c6557799633fc24c8bd99430cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fbebee2111a41a97478c34039310d4ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fbebee2111a41a97478c34039310d4ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/db9df6f1ec42eb5389c007185f6a35b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/db9df6f1ec42eb5389c007185f6a35b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/6975d267ce2b9c06dfe9b60283807a9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/6975d267ce2b9c06dfe9b60283807a9c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/changhoon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/52ee9a55d14d2c8c833c6aed99fbfd46/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/changhoon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/52ee9a55d14d2c8c833c6aed99fbfd46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b5a4995a140d0c470c427364597496c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b5a4995a140d0c470c427364597496c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ac369775d264790a68428d229a56b7ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ac369775d264790a68428d229a56b7ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6580e4231030aa57d63d64b42403ea8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6580e4231030aa57d63d64b42403ea8e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/changhoon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5d17003e59f7b0fbbe5d438cfcbec97c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/changhoon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5d17003e59f7b0fbbe5d438cfcbec97c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/changhoon/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/31512cb239ee5561a6fdf2c81724a5d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/changhoon/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/31512cb239ee5561a6fdf2c81724a5d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/changhoon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/98da76edc8e57646dc90c55070558790/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/changhoon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/98da76edc8e57646dc90c55070558790/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/changhoon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9b01628db7c343ca0952153ad51e94f4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/changhoon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9b01628db7c343ca0952153ad51e94f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b7192e3612d51c18ccf5986fc60cabf8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/changhoon/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b7192e3612d51c18ccf5986fc60cabf8/AndroidManifest.xml:20:5-44
+INJECTED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml
+INJECTED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml
+		ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml
+		INJECTED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml
+		ADDED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml
+		INJECTED from /home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/src/main/AndroidManifest.xml

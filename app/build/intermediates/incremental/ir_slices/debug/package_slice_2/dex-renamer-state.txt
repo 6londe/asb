@@ -1,0 +1,4 @@
+#Mon Feb 18 13:19:25 KST 2019
+base.0=/home/changhoon/work/AndroidStudioProjects/AndroidSQLiteBenchmark/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
